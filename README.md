@@ -4,7 +4,7 @@ This repo contains a simple POC to show how to tunnel traffic through Azure Appl
 
 **NOTE: This is not designed to be compiled and run on an engagement, it is here only to show how the protocol works alongside the blog post and to allow custom implementations to be created.**
 
-The blog post accompanying this repo can be found [here](https://www.trustedsec.com/blog/).
+The blog post accompanying this repo can be found [here](https://www.trustedsec.com/blog/azure-application-proxy-c2/).
 
 ### ./AppProxyC2CertificateCreator
 
